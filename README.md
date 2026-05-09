@@ -3,7 +3,7 @@
 A native macOS screen recorder, polished out of the box.
 Cursor zoom, captions, voice over and a built-in editor — already on, on day one.
 
-[**tinyrec.io**](https://tinyrec.io) · [**Download for macOS**](https://github.com/davidtran/tinyrec-release/releases/latest/download/TinyRec-Mac-arm64-Installer.dmg) · [Web editor](https://editor.tinyrec.io) · [@davidtranwd](https://x.com/davidtranwd)
+[**tinyrec.io**](https://tinyrec.io) · [**Download for macOS**](https://github.com/davidtran/tinyrec-release/releases/latest/download/TinyRec-Mac-arm64-Installer.dmg) · [@davidtranwd](https://x.com/davidtranwd)
 
 ---
 
